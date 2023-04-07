@@ -1,18 +1,16 @@
-body{
+body {
     height: 100vh;
 }
 
-.top-sheet{
+.top-sheet {
     height: 100vh;
     margin: 5%;
 }
 
-/* .logo{
-    width: 5%;
-    padding-top: 2.5%;
-    margin: 0 auto 0 auto;
-} */
+.txt-1 {
+    font-family: 'Ubuntu', sans-serif;
+}
 
-.navbar{
-
+.txt-2 {
+    font-family: 'Alkatra', cursive;
 }
