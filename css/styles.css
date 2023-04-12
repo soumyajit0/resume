@@ -14,3 +14,11 @@ body {
 .txt-2 {
     font-family: 'Alkatra', cursive;
 }
+
+.bx-shadow{
+    box-shadow: 10px 5px 5px slategrey;
+}
+
+.bx-shadow:hover{
+    box-shadow: 10px 5px 5px black;
+}
