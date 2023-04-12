@@ -3,7 +3,7 @@
 To download the Source Code in your local computer, execute the below command in your terminal.
 
 ```
-git clone https://github.com/soumyajit0/portfolio.git
+git clone hhttps://github.com/soumyajit0/resume.git
 ```
 
 For the Logo, you can check out my Canva Template for making your custom Logo.
@@ -17,3 +17,5 @@ https://www.canva.com/design/DAFfctscHkM/05Vtfck-6MBu8vjbGWJU9Q/view?utm_content
 Special thanks to Usman A., for providing with the Website Design.
 
 https://dribbble.com/shots/19753387-Jacob-Personal-Portfolio-Website?utm_source=Clipboard_Shot&utm_campaign=respoagency&utm_content=Jacob%20-%20Personal%20Portfolio%20Website&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=respoagency&utm_content=Jacob%20-%20Personal%20Portfolio%20Website&utm_medium=Social_Share
+
+Overview : https://resume-soumyajit.web.app/
