@@ -3,7 +3,7 @@
 To download the Source Code in your local computer, execute the below command in your terminal.
 
 ```
-git clone hhttps://github.com/soumyajit0/resume.git
+git clone https://github.com/soumyajit0/resume.git
 ```
 
 For the Logo, you can check out my Canva Template for making your custom Logo.
